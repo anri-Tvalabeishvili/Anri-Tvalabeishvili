@@ -68,6 +68,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 ![Pandas](https://img.shields.io/badge/Pandas-010101?&style=for-the-badge&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-010101?&style=for-the-badge&logo=NumPy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-010101?&style=for-the-badge&logo=SymPy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-010101?&style=for-the-badge&logo=PowerBI&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-010101?&style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 
@@ -85,8 +86,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 ### 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-
+---
 
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
