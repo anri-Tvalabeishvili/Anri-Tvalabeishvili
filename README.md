@@ -47,8 +47,6 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 </p>
 
 
-## 🔝 Most used languages
-
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
 
 ---
