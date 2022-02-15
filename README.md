@@ -49,7 +49,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 
 ### 🧩 Libraries & Framework
 
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-010101?&style=for-the-badge&logo=Pandas&logoColor=white)
 
 
 ### 🧑🏻‍💻 Tools & Platform
