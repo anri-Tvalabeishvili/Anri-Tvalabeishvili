@@ -20,11 +20,11 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 	<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
   
-<a href="https://www.instagram.com/asmitmalakannawar/">
+<a href="https://www.reddit.com/user/anri_T">
 	<img src="https://img.shields.io/badge/Reddit-E4405F?style=for-the-badge&logo=reddit&logoColor=white" />
 	</a>
   
-<a href="mailto:asmitbm2952002@gmail.com">
+<a href="mailto:anri.tvalabeishvili.1@iliauni.edu.ge">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
   
