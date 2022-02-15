@@ -12,7 +12,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/anri-tvalabeishvili-8018ab195/">
+<a href="https://www.linkedin.com/in/anri-tvalabeishvili/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	
