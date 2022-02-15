@@ -44,11 +44,9 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anri-Tvalabeishvili&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anri-Tvalabeishvili&hide_border=true&theme=radical" />   <br>
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+	
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anri-Tvalabeishvili&layout=compact&hide_border=true&theme=radical" />
 </p>
-
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
 
 ---
 
@@ -84,21 +82,6 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 ### 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-
-## 📈 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anri-Tvalabeishvili&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anri-Tvalabeishvili&hide_border=true&theme=radical" />
-</p>
-
-
-## 🔝 Most used languages
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
-
----
 
 
 
