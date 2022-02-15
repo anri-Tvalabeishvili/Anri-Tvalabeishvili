@@ -38,9 +38,6 @@ When I am not coding, I study math and statistics. In my free time I go out on t
   
 </p>
 
-
-<a href="https://asmit2952.github.io/"><img src="/cover2.gif"></a>
-
 ---
 ## 📈 Stats
 
