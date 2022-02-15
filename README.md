@@ -62,7 +62,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 
 ### 🧩 Libraries & Framework
 
-![Pandas](https://img.shields.io/badge/Pandas-010101?&style=for-the-badge&logo=Pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1b2ede?&style=for-the-badge&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-010101?&style=for-the-badge&logo=NumPy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-010101?&style=for-the-badge&logo=SymPy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-010101?&style=for-the-badge&logo=PowerBI&logoColor=white)
