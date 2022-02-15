@@ -37,3 +37,33 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 	</a>	
   
 </p>
+
+
+
+
+
+
+
+
+
+## ⚡ Tech Stack
+
+
+### 🚀 Languages
+
+
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anri-Tvalabeishvili&show_icons=true&locale=en&layout=compact&theme=radical" alt="anri-Tvalabeishvili" /></p>
+
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anri-Tvalabeishvili&theme=radical" alt="anri-Tvalabeishvili" /></p>
+ 
+ <br />
+
+
+
+
+
+
+
