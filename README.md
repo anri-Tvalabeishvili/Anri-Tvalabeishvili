@@ -50,7 +50,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo&hide_border=true&theme=radical"/>
 
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruso-Kvesitadze&layout=demo&hide_border=true&theme=radical"/>
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anri-Tvalabeishvili&layout=demo&hide_border=true&theme=radical"/>
 ---
 
 
