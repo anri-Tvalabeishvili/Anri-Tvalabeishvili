@@ -51,6 +51,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 
 ---
 
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anri-Tvalabeishvili&layout=compact&hide_border=true&theme=radical&count_private=true">
 
 
 ## ⚡ Tech Stack
