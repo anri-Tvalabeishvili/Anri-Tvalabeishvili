@@ -42,7 +42,6 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xgqfrms&amp;hide=contribs,issues)" />
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anri-Tvalabeishvili&show_icons=true&hide_border=true&theme=radical" />
   
