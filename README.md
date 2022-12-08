@@ -24,7 +24,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 	<img src="https://img.shields.io/badge/Reddit-E4405F?style=for-the-badge&logo=reddit&logoColor=white" />
 	</a>
   
-<a href="mailto:anri.tvalabeishvili.1@iliauni.edu.ge">
+<a href="mailto:anri.tvalabeishvili1@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	
