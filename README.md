@@ -27,6 +27,8 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 <a href="mailto:anri.tvalabeishvili1@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+
+<!--	
 	
 <a href="https://www.upwork.com/freelancers/~01782aa2d6077d60ac">
 	<img src="https://img.shields.io/badge/Upwork-E4405F?style=for-the-badge&logo=upwork&logoColor=white" />
@@ -36,6 +38,8 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 	<img src="https://img.shields.io/badge/freelancer-E4405F?style=for-the-badge&logo=freelancer&logoColor=white" />
 	</a>	
   
+-->	
+	
 </p>
 
 ---
