@@ -62,11 +62,15 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 ### 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧩 Libraries & Framework
 
 ![Pandas](https://img.shields.io/badge/Pandas-1b2ede?&style=for-the-badge&logo=Pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-6c7a89?&style=for-the-badge&logo=NumPy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?&style=for-the-badge&logo=SymPy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-b3a836?&style=for-the-badge&logo=PowerBI&logoColor=white)
