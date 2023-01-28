@@ -5,7 +5,7 @@
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [Pandas](https://pandas.pydata.org/) and [Power BI](https://powerbi.microsoft.com/en-us/)
+* 💻 Currently learning [Flask](https://flask.palletsprojects.com/en/2.2.x/) and [Docker](https://www.docker.com/)
 
 
 When I am not coding, I study math and statistics. In my free time I go out on the street or watch movies. Find out more about me & feel free to connect with me here:
