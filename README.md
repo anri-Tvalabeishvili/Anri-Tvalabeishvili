@@ -7,6 +7,8 @@
 
 * 💻 Currently learning [Flask](https://flask.palletsprojects.com/en/2.2.x/) and [Docker](https://www.docker.com/)
 
+* 👨‍💻 Currently, as part of a personal project, he is working on an API that will serve a retail store
+
 
 When I am not coding, I study math and statistics. In my free time I go out on the street or watch movies. Find out more about me & feel free to connect with me here:
 
