@@ -54,6 +54,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
   <img alt="languages" src="https://github-stats-for-readme.vercel.app/api/top-langs/?username=anri-Tvalabeishvili&layout=compact&hide_border=true&theme=radical&count_private=true"> <br>
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvalabeishvili&layout=compact&hide_border=true&theme=radical&count_private=true"> <br>
 <img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anri-Tvalabeishvili&theme=radical"> <br>
+<img alt="languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qristinius&theme=radical"> <br>
 
 
  
