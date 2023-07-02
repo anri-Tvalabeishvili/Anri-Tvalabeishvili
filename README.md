@@ -52,7 +52,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anri-Tvalabeishvili&hide_border=true&theme=radical&count_private=true" />   <br>
 	
   <!-- <img alt="languages" src="https://github-readme-statistic-sigma-five.vercel.app/api/top-langs/?username=anri-Tvalabeishvili&layout=compact&hide_border=true&theme=radical&count_private=true"> -->
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anri-Tvalabeishvili&count_private=true">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anri-Tvalabeishvili&layout=compact&hide_border=true&theme=radical&count_private=true">
 </p>
 
 
