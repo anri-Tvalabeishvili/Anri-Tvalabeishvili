@@ -92,7 +92,7 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 
 ### 🧑🏻‍💻 Tools & Platform
 
-![GitHub](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
