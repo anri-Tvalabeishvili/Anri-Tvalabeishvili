@@ -22,8 +22,8 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	
-<a href="https://www.facebook.com/Anri.Tvalabeishvil">
-	<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://www.kaggle.com/anritvalabeishvili">
+	<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 	</a>
   
 <a href="https://www.reddit.com/user/anri_T">
@@ -110,8 +110,10 @@ When I am not coding, I study math and statistics. In my free time I go out on t
 
 ---
 
+
+ <!-- 
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
+   -->
 
