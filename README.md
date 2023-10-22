@@ -1,14 +1,18 @@
 ### Hey! Great to see you here! 👋
 
+I'm a data scientist with 1 years of professional experience, who loves working with data to discover important information. My job is like being a detective for data, finding hidden patterns that help businesses and organizations make smart decisions.
+For me, being a data scientist is not just a job, it's something I'm really passionate about. I'm always excited to learn more and use data to make smart solutions.
+
 
 * 📖 I study at [Ilia State University](https://iliauni.edu.ge/en/), Faculty of Exact and Natural Sciences, majoring in Physics.
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [Flask](https://flask.palletsprojects.com/en/2.2.x/) and [Docker](https://www.docker.com/)
+* 💻 Currently learning [scikit-learn](https://scikit-learn.org/stable/)
 
-* 👨‍💻 Currently, as part of a personal project, he is working on an API that will serve a retail store
-
+<!--
+* 👨‍💻 Currently, as part of a personal projects, i am working on
+-->
 
 When I am not coding, I study math and statistics. In my free time I go out on the street or watch movies. Find out more about me & feel free to connect with me here:
 
